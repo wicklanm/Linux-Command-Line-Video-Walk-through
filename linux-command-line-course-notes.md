@@ -6,15 +6,11 @@
 
 ## 📋 About This Document
 
-This document summarizes the skills learned and provides a walkthrough of the **Learning Linux Command Line** course on LinkedIn Learning, taught by Senior Staff Instructor **Scott Simpson**. The course covers foundational Linux command line skills using the **Bash shell** and is designed for beginners, system administrators, and developers.
-
-> ⏱️ **Estimated Duration:** ~3 hours  
-> 🎓 **Instructor:** Scott Simpson  
-> 🛠️ **Environment:** GitHub Codespaces (cloud-based, no local setup required)
+This document summarizes the skills I learned and provides a walkthrough of the **Learning Linux Command Line** course on LinkedIn Learning, taught by **Scott Simpson**. The course covers foundational Linux command line skills using the **Bash shell** and is designed for beginners, system administrators, and developers.
 
 ---
 
-## 🎯 Skills Learned
+##  Skills Learned
 
 ### 1. Command Line Fundamentals
 - Understanding the Linux command line and Bash shell
@@ -74,7 +70,7 @@ This document summarizes the skills learned and provides a walkthrough of the **
 
 ---
 
-## 🗺️ Course Walkthrough
+## Course Walkthrough
 
 ### Chapter 1 — Introduction to the Linux Command Line
 
@@ -436,22 +432,3 @@ apt show vim
 | Packages | `apt install` | Install a package |
 
 ---
-
-## 🔗 Next Steps & Related Courses
-
-After completing this course, consider exploring:
-
-- **Linux: Bash Shell and Scripts** — Scott Simpson (LinkedIn Learning)
-- **Learning Bash Scripting** — LinkedIn Learning (~2 hours)
-- **Become a Linux System Administrator** — LinkedIn Learning Path (12 courses)
-- **Introduction to Linux** — Scott Simpson (foundational)
-
----
-
-## 🏆 Certificate
-
-Upon completion, LinkedIn Learning awards a **certificate of completion** that can be added to your LinkedIn profile under *Licenses & Certifications*.
-
----
-
-*Course notes compiled from: [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217) | Instructor: Scott Simpson | Course Repo: [GitHub](https://github.com/LinkedInLearning/learning-linux-command-line-3005201)*
