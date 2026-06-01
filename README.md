@@ -1,13 +1,13 @@
 # Linux-Command-Line-Video-Walk-through
 This document summarizes the skills learned and provides a walkthrough of the Learning Linux Command Line course on LinkedIn Learning, taught by Senior Staff Instructor Scott Simpson. The course covers foundational Linux command line skills using the Bash shell and is designed for beginners, system administrators, and developers.
 
-# 🐧 Learning Linux Command Line
+# Learning Linux Command Line
 ### LinkedIn Learning Course — Scott Simpson
 **Course URL:** https://www.linkedin.com/learning/learning-linux-command-line-26594217
 
 ---
 
-## 📋 About This Document
+## About This Document
 
 This document summarizes the skills I learned and provides a walkthrough of the **Learning Linux Command Line** course on LinkedIn Learning, taught by **Scott Simpson**. The course covers foundational Linux command line skills using the **Bash shell** and is designed for beginners, system administrators, and developers.
 
@@ -199,11 +199,10 @@ Linux enforces a permission model with three classes of users (owner, group, eve
 **Reading permissions:**
 ```
 -rwxr-xr--
-│├─┤├─┤├─┤
-││  │  └─── Others: read only
-││  └────── Group: read + execute
-│└───────── Owner: read + write + execute
-└─────────── File type (- = file, d = directory)
+Others: read only
+Group: read + execute
+Owner: read + write + execute
+File type (- = file, d = directory)
 ```
 
 **Changing permissions:**
