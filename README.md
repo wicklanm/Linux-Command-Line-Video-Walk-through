@@ -407,7 +407,7 @@ apt show vim
 
 ---
 
-## 📚 Quick Reference Card
+## Quick Reference Card
 
 | Category | Command | Description |
 |---|---|---|
